@@ -173,5 +173,3 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 .env
-app.py
-synthetic_data.py
